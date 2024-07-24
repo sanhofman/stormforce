@@ -1,0 +1,11 @@
+.vscode
+*.sublime-workspace
+*.log
+*.syso
+.idea
+*.DS_Store
+
+.env
+
+*.log
+*.html
